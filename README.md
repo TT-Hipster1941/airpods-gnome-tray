@@ -91,6 +91,6 @@ separately.
 
 ## Licence
 
-MIT, see [LICENSE](LICENSE). This is a separate program from the daemon it
-talks to over a state file and a command line — it doesn't bundle or link
-against the daemon's GPL-3.0 code.
+GPL-3.0, see [LICENSE](LICENSE). This is a separate program from the daemon it
+talks to over a state file and a command line — it doesn't bundle the
+daemon's own (also GPL-3.0) code.

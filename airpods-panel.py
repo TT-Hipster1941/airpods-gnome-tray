@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (C) 2026 TT-Hipster1941
+# Licensed under the GNU GPL v3 or later. See LICENSE.
 import gi
 gi.require_version("Gtk", "3.0")
 gi.require_version("AyatanaAppIndicator3", "0.1")
